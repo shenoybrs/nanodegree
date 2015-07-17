@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/button_color</item>
+        <item name="android:layout_height">@dimen/button_dimension</item>
+
+    </style>
+
+    <color name="button_color">#F08C35</color>
+    <dimen name="button_dimension">70dp</dimen>
+    <dimen name="button_margin">10dp</dimen>
+</resources>
